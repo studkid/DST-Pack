@@ -1,0 +1,13 @@
+name = "DST Pack"
+author = "studkid"
+version = "ALPHA-0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69106c2d96675198e02a6f41b194a918cb5916b08d52acaa16926ec59db72181"
+
+[versions]
+forge = "43.2.21"
+minecraft = "1.19.2"

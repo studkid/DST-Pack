@@ -1,0 +1,398 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
+
+[[files]]
+file = "config/ccl.cfg"
+hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "5b18c424394af27695972570f496e1c3eb453bceefdb4079cc979d2560781773"
+
+[[files]]
+file = "config/darkness.properties"
+hash = "6a86e656249aade831cc96ee49e944ed8f34fae83c5454cead7d1e6a9be5d31b"
+
+[[files]]
+file = "config/drg_flares_client.json"
+hash = "469202003eab728edbfd3650f3b46471ba93c2e34c86f3a1370cf1ed428b8fd0"
+
+[[files]]
+file = "config/drg_flares_server.json"
+hash = "534c5819d2d9f437af00fbf106cf2002a6fe946aba11adde7f57bf8fcefda810"
+
+[[files]]
+file = "config/dynamiclights.cfg"
+hash = "887e4ea88d2f3fb789fc56ab15cee1b7945774131ce67a93b7fbf67e07433515"
+
+[[files]]
+file = "config/dynamiclights_droppeditems.cfg"
+hash = "93bfa8a71c30a9c814936c6e790f3e8ff1cc2c89899eddf1413f0c30ee20db67"
+
+[[files]]
+file = "config/dynamiclights_selflight.cfg"
+hash = "93bfa8a71c30a9c814936c6e790f3e8ff1cc2c89899eddf1413f0c30ee20db67"
+
+[[files]]
+file = "config/dynamictrees-common.toml"
+hash = "88e60a98e6e7853de901aa74e691f2ca5d586b5b15ba2ddac9a7bc9621ee710d"
+
+[[files]]
+file = "config/emi.css"
+hash = "d16acdffcd24d3ebf0dcf0b7f985d75600fe7c2d8dec79ec37fb178c186f0d26"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+
+[[files]]
+file = "config/engulfingdarkness-common.toml"
+hash = "d451d80bc7a85043757550ef5f2cc591612033294ea3d486384650ebec5ca140"
+
+[[files]]
+file = "config/esm-config.toml"
+hash = "bb53b266b6f945476edf57ecc9317c6cc2fe47f7b45a8577283d84ef5407929d"
+
+[[files]]
+file = "config/explorerscompass-client.toml"
+hash = "8bcb1e2cf784ee67e9ea3ebf376d7406361e8f97a0abf7d458cd82ddcad2eb7b"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "624ca9ea41dddc052b96c6adf5ee6cc5b8e774af6ebbc97f205b7396607699f5"
+
+[[files]]
+file = "config/eyesinthedarkness-client.toml"
+hash = "7d4683a97068f7344436eee4845787cd973ac833d514fe39e4fff86b88bcc5da"
+
+[[files]]
+file = "config/fml.toml"
+hash = "f0f80072142ed0d6d59a98d231ec9cc7363defd8d02bfa217108b4b90835513e"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "5db4cf560d827f6a88d0f51ef13896cd33db9718215b079df9129e41ba8f4db0"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "8a4a66052998138456f09c8871cbd4c29c864932415262ed5ee837e743597a7e"
+
+[[files]]
+file = "config/forge-resource-caching.toml"
+hash = "ed2512a6396ea7446a5e4bb7d26b18021c1ae356f3cb13caba4043ad77a31e9d"
+
+[[files]]
+file = "config/gamemenumodoption-client.toml"
+hash = "6de65c58ca4b9a83755a7bb3687e5d5c751c2b2fa2141849627f6c6e364599c9"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "7f70ae3c695c99de0ef9228449466f407e1c80cd8a79177f89ef864dd41fd5b2"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "a8dd96969b99b2a502cbe6c7f672b687f8afdd15e025be0a856e1a581d372957"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "b79e365a5b103f2f498b6aa47b55700a7f67e87ab2145092cdc1551ef6129744"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "8ee405b6a65236d3ae7d8cfedfe32b5c487051a16d0c36ccb08edb17d6cec6a5"
+
+[[files]]
+file = "config/lightoverlay.properties"
+hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "19e32515b4d9338aaa605bcd30dda6634d0a999f82ed0689749d95cb40397f5a"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "28bf38e7f117c1d0903ee364b7b424f191d7ec1fde3b63a29b4a389728a75ff3"
+
+[[files]]
+file = "config/realistictorches-common.toml"
+hash = "441a97cd003ac52156c378a9401b230a6164a9d77f7b7fa091f29914cb329808"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/sanitydim/default.toml"
+hash = "264cba7d977fe6546eccfec89018da4263c81bb49b5ba0f0b46f2e1174478096"
+
+[[files]]
+file = "config/sanitydim/dimension/example.toml"
+hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "b52915511b91c972507f70f111bfa88f51f014bc5b4617f074de8facbfee8d1c"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "45b0db76bed683ad9eb8e726db511033ad507717f28b7b712380f9547f63fdf9"
+
+[[files]]
+file = "config/survivalistessentials-client.toml"
+hash = "6a9c221ee5df3d25444387d460be4eebbb825ed24ff60621ae3d2ea600352de3"
+
+[[files]]
+file = "config/survivalistessentials-common.toml"
+hash = "fd56eb4338113bd623d61d3d9bce1701eeac676b817c8549974817f5cabc07ae"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "e508f6fb49a888e86b46c7767062e20e857e434a32500b4ecd18a209bc25b11e"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "3e5ffb82d0e932189dda8910b30b397ecc6c3849a78b21cc277ae8a91c9369b3"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/drg-flares-forge.pw.toml"
+hash = "b58117744c33986495745d28741b090fe10dc66cfef8af77cfa1db0ec1032d1e"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-quark.pw.toml"
+hash = "d53603ad1062f1b6c8de6e04c496e6352925b3ef0c3bea1687d29cd27deb4fc0"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "3a483c60048d6497ce59ab43fbc7acb3c40214d97a635e03677714f5d2ba170a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "974f7492e1557e17a5aceadf5d0094d6e57ea6cf3da56ec306922b339cc3dba4"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
+metafile = true
+
+[[files]]
+file = "mods/engulfing-darkness.pw.toml"
+hash = "ccb68a5a630769843ff78867a79bfa25047c5a8e31f610ccab88c01a4ac05089"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "92f0a1d2b221021d2c0ab36d5c3e293f01a3a938b13d82bf82b997968f85faf4"
+metafile = true
+
+[[files]]
+file = "mods/eyes-in-the-darkness.pw.toml"
+hash = "0b9afb89715651ee55dacad147cddb4d85cbd5c9141c822fc0588e15777f3721"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "7ad6af83a3236f76c283c02c8cb83b05f663dff74bed56a039463871c3a8eba0"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "34beff832b98f209ac50078a6901688c2f1318739c3ebb242ee31d00e2409d3a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6ecdb29b8286ce932de61ebf2ea8233cd40046b2f0fce85992202cb07eabbba2"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "f43d81c21ee75f1ca04865958e5c3da4971f0ff824b82359e85ce5f765a9b92f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
+metafile = true
+
+[[files]]
+file = "mods/nightmareesm.pw.toml"
+hash = "617e7cfd8edc5ef1c11417e725361574c3e02f54029137656bb9615b5ad299c4"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.pw.toml"
+hash = "36593f276d3f0c0cb8de488d39f8387775e9e33a7e09ed1f25f7a54897ecc93c"
+metafile = true
+
+[[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "32246c08f2700b79f523845e1e61af5c01ff317fe7559732ba68e45903c44abc"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "a397268daa3488b900b3e49ae2675ef28d77bfadd5aa0168df69d234456657d2"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "41aa77632a5ed56e02b6c66ecc8c2996d8738e8a6c8acbbdc3973a2547ac570c"
+metafile = true
+
+[[files]]
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "c7ef3d4d272a34a30184789333328868761178a6a59e18b039684a44ae746e1a"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "aa57dc1cc304a3f1946fa9300a6b6be00aac1fa68d84f36495556232f44c20be"
+metafile = true
+
+[[files]]
+file = "mods/survivalist-essentials.pw.toml"
+hash = "e45c0b39c440aff3b9e88b30a4b8f76fe384171dcb230e4b991fb38e588e6787"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "81502de0d4e694fc388b82a8396dd939fbc5c9b74ecd4117807ee300c92fa514"
+metafile = true
