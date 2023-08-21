@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Quark"
+filename = "DynamicTreesQuark-1.19.2-2.4.0-Beta1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9300c7f8389ffd20edba74e71a8f4b5a847f8ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4701336
+project-id = 386753

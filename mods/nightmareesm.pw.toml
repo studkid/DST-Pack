@@ -1,0 +1,13 @@
+name = "Nightmare Epic Siege: More Aggressive Monsters, Digging Zombies! "
+filename = "Nightmare - Epic Siege Mod 1.19.2 v0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93b6e28935d7edc26cf22a59ee906fc5334a3622"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4473071
+project-id = 623454

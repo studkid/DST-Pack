@@ -1,0 +1,13 @@
+name = "DRG Flares (Forge)"
+filename = "drg_flares-1.19-forge-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58889214c4255e90b4eddbdbd9ec9b405dfc1409"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3912108
+project-id = 568536

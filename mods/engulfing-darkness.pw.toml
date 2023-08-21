@@ -1,0 +1,13 @@
+name = "Engulfing Darkness"
+filename = "EngulfingDarkness-1.19.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df70e8c98989cfa4711514b7606601f33b4ccef2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4073396
+project-id = 514138
