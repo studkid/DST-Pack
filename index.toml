@@ -169,11 +169,6 @@ hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
-file = "mods/nightmareesm.pw.toml"
-hash = "617e7cfd8edc5ef1c11417e725361574c3e02f54029137656bb9615b5ad299c4"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "feeee060f81012d4a69bb47e6d50886182cc28370978e1b5edab645213a0ed96"
 metafile = true
