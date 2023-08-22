@@ -1,184 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/appleskin-client.toml"
-hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
-
-[[files]]
-file = "config/ccl.cfg"
-hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
-
-[[files]]
-file = "config/configured-client.toml"
-hash = "5b18c424394af27695972570f496e1c3eb453bceefdb4079cc979d2560781773"
-
-[[files]]
-file = "config/darkness.properties"
-hash = "6a86e656249aade831cc96ee49e944ed8f34fae83c5454cead7d1e6a9be5d31b"
-
-[[files]]
-file = "config/drg_flares_client.json"
-hash = "469202003eab728edbfd3650f3b46471ba93c2e34c86f3a1370cf1ed428b8fd0"
-
-[[files]]
 file = "config/drg_flares_server.json"
-hash = "534c5819d2d9f437af00fbf106cf2002a6fe946aba11adde7f57bf8fcefda810"
+hash = "7525abe46d3507e4dca3f5bdb1fe62ebd3e4b688f1d539e1f41aa8c523838050"
 
 [[files]]
 file = "config/dynamiclights.cfg"
-hash = "887e4ea88d2f3fb789fc56ab15cee1b7945774131ce67a93b7fbf67e07433515"
+hash = "94bbf4d86a7bdb512b9911ad49f85a32bb6647f492098ac8a81f50ae05a48279"
 
 [[files]]
 file = "config/dynamiclights_droppeditems.cfg"
-hash = "93bfa8a71c30a9c814936c6e790f3e8ff1cc2c89899eddf1413f0c30ee20db67"
+hash = "31a09335eb7ded45fc6732f603d86bde940fb271fc12c9479c77e0e82d4a51f0"
 
 [[files]]
 file = "config/dynamiclights_selflight.cfg"
-hash = "93bfa8a71c30a9c814936c6e790f3e8ff1cc2c89899eddf1413f0c30ee20db67"
-
-[[files]]
-file = "config/dynamictrees-common.toml"
-hash = "88e60a98e6e7853de901aa74e691f2ca5d586b5b15ba2ddac9a7bc9621ee710d"
-
-[[files]]
-file = "config/emi.css"
-hash = "d16acdffcd24d3ebf0dcf0b7f985d75600fe7c2d8dec79ec37fb178c186f0d26"
-
-[[files]]
-file = "config/enchdesc.json"
-hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
-
-[[files]]
-file = "config/engulfingdarkness-common.toml"
-hash = "d451d80bc7a85043757550ef5f2cc591612033294ea3d486384650ebec5ca140"
-
-[[files]]
-file = "config/esm-config.toml"
-hash = "bb53b266b6f945476edf57ecc9317c6cc2fe47f7b45a8577283d84ef5407929d"
-
-[[files]]
-file = "config/explorerscompass-client.toml"
-hash = "8bcb1e2cf784ee67e9ea3ebf376d7406361e8f97a0abf7d458cd82ddcad2eb7b"
-
-[[files]]
-file = "config/explorerscompass-common.toml"
-hash = "624ca9ea41dddc052b96c6adf5ee6cc5b8e774af6ebbc97f205b7396607699f5"
-
-[[files]]
-file = "config/eyesinthedarkness-client.toml"
-hash = "7d4683a97068f7344436eee4845787cd973ac833d514fe39e4fff86b88bcc5da"
-
-[[files]]
-file = "config/fml.toml"
-hash = "f0f80072142ed0d6d59a98d231ec9cc7363defd8d02bfa217108b4b90835513e"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "5db4cf560d827f6a88d0f51ef13896cd33db9718215b079df9129e41ba8f4db0"
-
-[[files]]
-file = "config/forge-common.toml"
-hash = "8a4a66052998138456f09c8871cbd4c29c864932415262ed5ee837e743597a7e"
-
-[[files]]
-file = "config/forge-resource-caching.toml"
-hash = "ed2512a6396ea7446a5e4bb7d26b18021c1ae356f3cb13caba4043ad77a31e9d"
-
-[[files]]
-file = "config/gamemenumodoption-client.toml"
-hash = "6de65c58ca4b9a83755a7bb3687e5d5c751c2b2fa2141849627f6c6e364599c9"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/jade/jade.json"
-hash = "7f70ae3c695c99de0ef9228449466f407e1c80cd8a79177f89ef864dd41fd5b2"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "a8dd96969b99b2a502cbe6c7f672b687f8afdd15e025be0a856e1a581d372957"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "b79e365a5b103f2f498b6aa47b55700a7f67e87ab2145092cdc1551ef6129744"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "8ee405b6a65236d3ae7d8cfedfe32b5c487051a16d0c36ccb08edb17d6cec6a5"
-
-[[files]]
-file = "config/lightoverlay.properties"
-hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
-
-[[files]]
-file = "config/naturescompass-client.toml"
-hash = "12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2"
-
-[[files]]
-file = "config/naturescompass-common.toml"
-hash = "19e32515b4d9338aaa605bcd30dda6634d0a999f82ed0689749d95cb40397f5a"
-
-[[files]]
-file = "config/quark-common.toml"
-hash = "28bf38e7f117c1d0903ee364b7b424f191d7ec1fde3b63a29b4a389728a75ff3"
-
-[[files]]
-file = "config/realistictorches-common.toml"
-hash = "441a97cd003ac52156c378a9401b230a6164a9d77f7b7fa091f29914cb329808"
-
-[[files]]
-file = "config/rubidium-mixins.properties"
-hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
-
-[[files]]
-file = "config/rubidium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+hash = "31a09335eb7ded45fc6732f603d86bde940fb271fc12c9479c77e0e82d4a51f0"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "264cba7d977fe6546eccfec89018da4263c81bb49b5ba0f0b46f2e1174478096"
+hash = "b6ffc20b72a379a693c6d244d1ddd1f5686471ed2e9486052b382ad22dd35712"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
-file = "config/supplementaries-client.toml"
-hash = "b52915511b91c972507f70f111bfa88f51f014bc5b4617f074de8facbfee8d1c"
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "config/supplementaries-common.toml"
-hash = "45b0db76bed683ad9eb8e726db511033ad507717f28b7b712380f9547f63fdf9"
-
-[[files]]
-file = "config/survivalistessentials-client.toml"
-hash = "6a9c221ee5df3d25444387d460be4eebbb825ed24ff60621ae3d2ea600352de3"
-
-[[files]]
-file = "config/survivalistessentials-common.toml"
-hash = "fd56eb4338113bd623d61d3d9bce1701eeac676b817c8549974817f5cabc07ae"
+file = "kubejs/assets/starve/item/torch.png"
+hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -187,6 +39,14 @@ hash = "e508f6fb49a888e86b46c7767062e20e857e434a32500b4ecd18a209bc25b11e"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "3e5ffb82d0e932189dda8910b30b397ecc6c3849a78b21cc277ae8a91c9369b3"
+
+[[files]]
+file = "kubejs/server_scripts/TimerDamage.js"
+hash = "ffd80c338e6f2588fe42c234772fe5ef863b61501487c8d6a1df66676a7905f3"
+
+[[files]]
+file = "kubejs/startup_scripts/item_registry.js"
+hash = "2d3001e2f986688bdf6ecf552ea6429c7c1bcb2892e507c23a86f667d5e92637"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -349,6 +209,11 @@ hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
@@ -366,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/survivalist-essentials.pw.toml"
 hash = "e45c0b39c440aff3b9e88b30a4b8f76fe384171dcb230e4b991fb38e588e6787"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "ee280fb779044cdf3cc2790e3afc11d75abdac82d3076be675da1714174b1fc9"
 metafile = true
 
 [[files]]
