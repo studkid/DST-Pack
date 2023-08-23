@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/darkness.properties"
+hash = "16838162cbc694bfc052029b9c09e42cc449de47c717923daaeed8aa1d7744be"
+
+[[files]]
 file = "config/drg_flares_server.json"
 hash = "7525abe46d3507e4dca3f5bdb1fe62ebd3e4b688f1d539e1f41aa8c523838050"
 
@@ -10,11 +14,31 @@ hash = "94bbf4d86a7bdb512b9911ad49f85a32bb6647f492098ac8a81f50ae05a48279"
 
 [[files]]
 file = "config/dynamiclights_droppeditems.cfg"
-hash = "31a09335eb7ded45fc6732f603d86bde940fb271fc12c9479c77e0e82d4a51f0"
+hash = "01c877610f849aa4924313f9c8abd0a0439bbb447dbc7e523e268f8de672e107"
 
 [[files]]
 file = "config/dynamiclights_selflight.cfg"
-hash = "31a09335eb7ded45fc6732f603d86bde940fb271fc12c9479c77e0e82d4a51f0"
+hash = "01c877610f849aa4924313f9c8abd0a0439bbb447dbc7e523e268f8de672e107"
+
+[[files]]
+file = "config/engulfingdarkness-common.toml"
+hash = "d451d80bc7a85043757550ef5f2cc591612033294ea3d486384650ebec5ca140"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "a8dd96969b99b2a502cbe6c7f672b687f8afdd15e025be0a856e1a581d372957"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "b79e365a5b103f2f498b6aa47b55700a7f67e87ab2145092cdc1551ef6129744"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -25,16 +49,24 @@ file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "38e94dedb3169ea3c98040935fd9adf9ef2df738d52869518771345e763c9b33"
+
+[[files]]
+file = "defaultconfigs/toughasnails-server.toml"
+hash = "1c9fb3675564229bef023831fbaab4db408618b6755e2eed0d224f6c3a9b49ae"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/starve/item/torch.png"
+file = "kubejs/assets/kubejs/item/torch.png"
 hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "e508f6fb49a888e86b46c7767062e20e857e434a32500b4ecd18a209bc25b11e"
+hash = "d31b46d10616e16d40cc8fc50950929d7bdf4b9841b642ad999b9d250c713d19"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -46,7 +78,7 @@ hash = "ffd80c338e6f2588fe42c234772fe5ef863b61501487c8d6a1df66676a7905f3"
 
 [[files]]
 file = "kubejs/startup_scripts/item_registry.js"
-hash = "2d3001e2f986688bdf6ecf552ea6429c7c1bcb2892e507c23a86f667d5e92637"
+hash = "cc71b45063f81e4292b2affedb6366c53d795bce02ea94bec117aed6ac42d8c2"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
