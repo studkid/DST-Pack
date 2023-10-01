@@ -1,13 +1,13 @@
 name = "Survivalist Essentials"
-filename = "SurvivalistEssentials-1.19-1.19.2-4.1.2.1.jar"
+filename = "SurvivalistEssentials-1.20.1-6.1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "85759056beb1b49554d95f50a174c6e740cf015f"
+hash = "9330f228a2cacd1d65911d9e32d288812866eccb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4688951
+file-id = 4743995
 project-id = 676800
