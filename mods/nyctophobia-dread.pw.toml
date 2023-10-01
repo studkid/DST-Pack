@@ -1,0 +1,13 @@
+name = "Nyctophobia Dread"
+filename = "nyctophobia-dread-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q2HFmuJV/versions/DfuMFyA8/nyctophobia-dread-2.jar"
+hash-format = "sha1"
+hash = "58f2183210bffa555086632d2271725b50163765"
+
+[update]
+[update.modrinth]
+mod-id = "Q2HFmuJV"
+version = "DfuMFyA8"

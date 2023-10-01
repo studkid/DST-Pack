@@ -87,6 +87,11 @@ hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/drg-flares-forge.pw.toml"
 hash = "bda042c4a560cfaf919e7a0bb7bb04af987d7c62da9df818821643c62532e0e6"
 metafile = true
@@ -94,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "c3704ed0404dd193e6b901841291c6378ff74f9615efc5a32cf697d36a8b8538"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
@@ -147,6 +157,16 @@ hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "ce019903021ffa7435c0fb48c2be326ffc01e11d9e80bdbc0f918702b6a8d899"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
@@ -154,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/nyctophobia-dread.pw.toml"
+hash = "beee33f075de7dbc2e358b5acb7ab16d912173032816e15c5e90feac05cb00ac"
 metafile = true
 
 [[files]]
@@ -177,6 +202,11 @@ hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "9f0ba2ff23f84cb4cb9275d6caaff9d09e2dc92712aa94891d95acb2cc42e548"
 metafile = true
@@ -187,18 +217,8 @@ hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
 
 [[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
-metafile = true
-
-[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "357373a2ab0275e5bf0c0fe022daa41b0095f10bbc3319b78edbc54aa72466e4"
 metafile = true
 
 [[files]]
@@ -207,11 +227,16 @@ hash = "47ecf5186fb4522a099f89a63ea7bffe395744c13ffe012ea081191b26fef06c"
 metafile = true
 
 [[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "6283b102aa6957af813480ce101db718880f93db90e829487a202408d6e31042"
+file = "mods/the-twilight-forest.pw.toml"
+hash = "8bd5bc2330225cac3d3d1599b9c7ccfae687347735d8ac5327ad4d76fd295551"
 metafile = true
 
 [[files]]
 file = "mods/true-darkness.pw.toml"
 hash = "81502de0d4e694fc388b82a8396dd939fbc5c9b74ecd4117807ee300c92fa514"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
 metafile = true
