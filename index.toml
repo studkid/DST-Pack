@@ -192,11 +192,6 @@ hash = "2e1311fa5a1c3bc08ec9e1fadeafa07d108d5667f79958b156059a672feb4959"
 metafile = true
 
 [[files]]
-file = "mods/realistic-torches.pw.toml"
-hash = "9811ffe5f7f3d3076ca7a08c8a7f1a907cd9442e90c705565baf2e43025310f1"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "cf6c7974d46bba617f63da63cb589fa42f26c8b04d9230c43fd7f72b3e30c2d8"
 metafile = true
