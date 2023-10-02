@@ -127,6 +127,11 @@ hash = "2f17b05ab20578102769ec7764d8c573eaf33b5d3ebc1d94fcedac31455b9252"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
+metafile = true
+
+[[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "d86933e1f173bc52bee22c6376733671696cf157f8a5686994cb520ba8aa8583"
 metafile = true
@@ -134,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "69f29d52e12bd46f1a5a3282978461cba8860934f636d3ec9e49832a98646ee7"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "07990632cc31698071d60485bbe350286c8f8561a5c7dca9784a05ae553b4c7f"
 metafile = true
 
 [[files]]
@@ -177,6 +187,11 @@ hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "2e1311fa5a1c3bc08ec9e1fadeafa07d108d5667f79958b156059a672feb4959"
+metafile = true
+
+[[files]]
 file = "mods/realistic-torches.pw.toml"
 hash = "9811ffe5f7f3d3076ca7a08c8a7f1a907cd9442e90c705565baf2e43025310f1"
 metafile = true
@@ -212,6 +227,11 @@ hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "3e35dfd56c39039efbd08b58bfdee21168e4c9cd17aeacb157151b8a672e1a77"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
@@ -219,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/survivalist-essentials.pw.toml"
 hash = "47ecf5186fb4522a099f89a63ea7bffe395744c13ffe012ea081191b26fef06c"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "7eab318d7763eecf47bde9ecd8d499fe676935392e222a9e8c64c08e6df548d5"
 metafile = true
 
 [[files]]
