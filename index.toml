@@ -232,11 +232,6 @@ hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]
-file = "mods/survivalist-essentials.pw.toml"
-hash = "47ecf5186fb4522a099f89a63ea7bffe395744c13ffe012ea081191b26fef06c"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "7eab318d7763eecf47bde9ecd8d499fe676935392e222a9e8c64c08e6df548d5"
 metafile = true
