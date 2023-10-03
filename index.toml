@@ -92,6 +92,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "929933481c4f2438886206bb5e4888137b6f4b82b5f6c39568a6d16ee5ac7848"
+metafile = true
+
+[[files]]
 file = "mods/drg-flares-forge.pw.toml"
 hash = "bda042c4a560cfaf919e7a0bb7bb04af987d7c62da9df818821643c62532e0e6"
 metafile = true
@@ -129,6 +134,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "57073df9d5d144adef35b37f4f6769b68408586b5653a9aad9f243804562ae8a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0ae4f7b303a967a971ef24784e08ab1f859a6148c45d2950c72767849cda19cc"
 metafile = true
 
 [[files]]
