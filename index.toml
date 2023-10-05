@@ -162,11 +162,6 @@ hash = "07990632cc31698071d60485bbe350286c8f8561a5c7dca9784a05ae553b4c7f"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "81651624da9b11fc1346af3684677121e5682d8776ca13ee06a2a355add0645a"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
@@ -199,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
 metafile = true
 
 [[files]]
