@@ -20,13 +20,13 @@
 		raining = -0.2
 		#Players' sanity will start getting affected with food levels at and below this threshold (in half-drumsticks)
 		#Range: 0 ~ 20
-		hunger_threshold = 8
+		hunger_threshold = 2
 		#Players with food levels at and below <hunger_threshold> gain this amount of sanity per second
 		#Range: -100.0 ~ 100.0
-		hungry = 0
+		hungry = -0.1
 		#Players will gain this amount of sanity per second for 5 seconds after looking at an enderman
 		#Range: -100.0 ~ 100.0
-		ender_man_anger = 0
+		ender_man_anger = -3
 		#Players will gain this amount of sanity per second while being near their pets
 		#Range: -100.0 ~ 100.0
 		pet = 0.15
@@ -39,7 +39,7 @@
 		darkness = -0.15
 		#Maximum light level considered to be darkness (inclusive)
 		#Range: 0 ~ 15
-		darkness_threshold = 4
+		darkness_threshold = 6
 		#Players will gain this amount of sanity per second while being in the light
 		#Range: -100.0 ~ 100.0
 		lightness = 0.0
@@ -48,10 +48,10 @@
 		lightness_threshold = 4
 		#Players who are stuck in blocks (such as cobweb) and have their movement restricted gain this amount of sanity per second
 		#Range: -100.0 ~ 100.0
-		block_stuck = -0.09
+		block_stuck = 0
 		#Players moving on a dirt path or a carpet receive this amount of sanity per second
 		#Range: -100.0 ~ 100.0
-		dirt_path = 0.09
+		dirt_path = 0
 		#Nearby jukebox playing a pleasant melody gives this amount of sanity per second
 		#Range: -100.0 ~ 100.0
 		jukebox_pleasant = 0

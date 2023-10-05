@@ -5,3 +5,6 @@
 *.mrpack
 
 packwiz
+kubejs/config/probejs.json
+kubejs/jsconfig.json
+kubejs/README.txt
