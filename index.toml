@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ce019903021ffa7435c0fb48c2be326ffc01e11d9e80bdbc0f918702b6a8d899"
+hash = "3aed30ddd68d4ea3360fd5827b67cafc3ee0403351baec2bf9309ea46943f598"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "2e1311fa5a1c3bc08ec9e1fadeafa07d108d5667f79958b156059a672feb4959"
+hash = "c933433f2eded417ee7d36697935eb5f6f3ef9cddb4029a85b315b87cad4b910"
 metafile = true
 
 [[files]]
@@ -316,12 +316,12 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
+hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9f0ba2ff23f84cb4cb9275d6caaff9d09e2dc92712aa94891d95acb2cc42e548"
+hash = "c39cfd8c5d3e7b726ea4c5b85389d98a56b4a2a6d9caf20d191a408a91233580"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3e35dfd56c39039efbd08b58bfdee21168e4c9cd17aeacb157151b8a672e1a77"
+hash = "a78de1db76195901cb6286ae14f5f504aa68fc487770b97e66a99d9c6c81dd23"
 metafile = true
 
 [[files]]
@@ -357,11 +357,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "8bd5bc2330225cac3d3d1599b9c7ccfae687347735d8ac5327ad4d76fd295551"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness.pw.toml"
-hash = "81502de0d4e694fc388b82a8396dd939fbc5c9b74ecd4117807ee300c92fa514"
 metafile = true
 
 [[files]]
