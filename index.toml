@@ -345,6 +345,11 @@ hash = "21243746ccc669fe9b32286268e04c8f5d9392a6d98a7662e81641b5221e4842"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c19a2202c2bbf4d9337b55cfc8adc3bfd356841f8232dedf78e28843aa479af6"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "7eab318d7763eecf47bde9ecd8d499fe676935392e222a9e8c64c08e6df548d5"
 metafile = true
