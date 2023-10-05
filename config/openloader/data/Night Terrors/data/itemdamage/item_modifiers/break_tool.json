@@ -1,7 +1,4 @@
-[
-  {
-    "function": "minecraft:set_damage",
-    "damage": 0,
-    "add": false
-  }
-]
+{
+  "function": "minecraft:set_count",
+  "count": 0
+}

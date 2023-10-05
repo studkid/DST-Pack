@@ -1,35 +1,13 @@
 [
   {
     "function": "minecraft:set_damage",
-    "damage": -0.01,
+    "damage": -0.25,
     "add": true,
     "conditions": [
       {
         "condition": "minecraft:weather_check",
         "raining": false,
         "thundering": false
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_damage",
-    "damage": -0.02,
-    "add": true,
-    "conditions": [
-      {
-        "condition": "minecraft:weather_check",
-        "raining": true
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_damage",
-    "damage": -0.02,
-    "add": true,
-    "conditions": [
-      {
-        "condition": "minecraft:weather_check",
-        "thundering": true
       }
     ]
   }
