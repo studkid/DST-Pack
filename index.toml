@@ -41,8 +41,80 @@ file = "config/jade/sort-order.json"
 hash = "b79e365a5b103f2f498b6aa47b55700a7f67e87ab2145092cdc1551ef6129744"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/pack.mcmeta"
+hash = "033f5987ac6fe65fee57dd5cdc17fc31f63bdeb4eb64af7fb838a3af0c7a2157"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/functions/break_tool.mcfunction"
+hash = "e0110fdfb1ce84a609373e11489c776a28f9ee9ba0c695b1710e10102c50f5c1"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/functions/load.mcfunction"
+hash = "a418ce6ace1bba2bcdd13edd50ee89c122e1db909166f7bf0a26c7b02a6ede06"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/functions/tick.mcfunction"
+hash = "f0f580177e5bdba8e3198793de5c4ad7c61513dafc04b6d53f02048645054603"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/functions/torch/torch_tick.mcfunction"
+hash = "170013971d597019701fe9679b56ba1c04a878e9f917462a96569b5e6d2858c7"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/item_modifiers/break_tool.json"
+hash = "4db28ace9ba3064f51bcd5712bd99c9d2864bac3188f8eb27deb9661d18d9727"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/item_modifiers/damage_tool.json"
+hash = "daefe727fe3359d5d8c8bf2ffe9704b43d1ee61964f483c373322513cfb43797"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/predicates/holdingtorch.json"
+hash = "7f8a11264a83f54347ed7c83b5ca99a506da272cd8cf5c255a2bd8f93a91d661"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/predicates/maintorch.json"
+hash = "33a8d13af983cc08d800289b18fd540b613fed47a359473e70c38ae1d030b2e6"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/itemdamage/predicates/offtorch.json"
+hash = "d5e9dae43ea7ba64596d41bd0a8e26bf979ce2df7647fdf6d6f18d37896ba094"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/night/functions/dark/damage.mcfunction"
+hash = "2abf709f35bfdcc7719b7d963156569410edac0d2d06f22b3b5b240fed8cfa0d"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/night/functions/dark/unsafe.mcfunction"
+hash = "df08c2e0aa3ef8c190a85597812e364da662ea485242b708c3f50eb7351a5050"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/night/functions/load.mcfunction"
+hash = "c2ea36b25967039237abdf5034ea8f8e7ff20eeb7722c09eb42ab58a0a4b8ea2"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/night/functions/register.mcfunction"
+hash = "c52f5d1153c951d2a31c8fe1d557b34e19035ca8b1f6efc7ae9f2cb4459e9812"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/night/functions/tick.mcfunction"
+hash = "7da94f6e14943522d5d8a7f8509d2a363d8d252c7b211cda67498b0d4a041942"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/data/night/predicates/indark.json"
+hash = "2c01dcbf557974adcb64aaf6f14175142c31283318b62377dfc31da9f2d04a6f"
+
+[[files]]
+file = "config/openloader/data/Night Terrors/pack.mcmeta"
+hash = "f992c25a195f65dbfaee32b9efa52917b9f58c8bd8b403cd65437ca20b9595f6"
+
+[[files]]
 file = "config/sanitydim/default.toml"
-hash = "b6ffc20b72a379a693c6d244d1ddd1f5686471ed2e9486052b382ad22dd35712"
+hash = "197ab60883fecbaeea130c5aee72d31a8c50ffa915405c2312c939e66154e2e9"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -55,6 +127,22 @@ hash = "38e94dedb3169ea3c98040935fd9adf9ef2df738d52869518771345e763c9b33"
 [[files]]
 file = "defaultconfigs/toughasnails-server.toml"
 hash = "1c9fb3675564229bef023831fbaab4db408618b6755e2eed0d224f6c3a9b49ae"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/hand_torch.png"
+hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
+
+[[files]]
+file = "kubejs/server_scripts/disableLight.js"
+hash = "6b655b2f65f82782e94711d0e8ebb276eaca7e7bdba90f837376d25164fab83f"
+
+[[files]]
+file = "kubejs/server_scripts/hideItems.js"
+hash = "e76ed33bc087b012b3dc86fdcad0dc453e0099ef533d82672deff277ebdaad77"
+
+[[files]]
+file = "kubejs/startup_scripts/add_items.js"
+hash = "2609cac2a799a77d4e58b7fdf7898da5b1ea30f7fe0961f7d5f33e50511077c6"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -84,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
 metafile = true
 
 [[files]]
@@ -244,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "21243746ccc669fe9b32286268e04c8f5d9392a6d98a7662e81641b5221e4842"
 metafile = true
 
 [[files]]
