@@ -1,0 +1,13 @@
+[
+  {
+    "mob": ["twilightforest:kobold", "twilightforest:redcap"],
+    "seesky": true,
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:spider", "minecraft:zombie", "minecraft:stray", "minecraft:husk", "twilightforest:kobold", "twilightforest:redcap", "twilightforest:slime_beetle", "twilightforest:fire_beetle", "twilightforest:blockchain_goblin"],
+    "dimension": "minecraft:overworld",
+    "biome": "minecraft:deep_dark",
+    "result": "deny"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "mob": "twilightforest:kobold",
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 2,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": 0,
+      "maxheight": 100,
+      "maxthis": 15
+    }
+  },
+  {
+    "mob": "twilightforest:redcap",
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 100,
+      "maxthis": 10
+    }
+  },
+  {
+    "mob": "twilightforest:slime_beetle",
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 0,
+      "maxthis": 15
+    }
+  },
+  {
+    "mob": "twilightforest:fire_beetle",
+    "persecond": 0.5,
+    "attempts": 15,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 0,
+      "maxthis": 20
+    }
+  },
+  {
+    "mob": "twilightforest:blockchain_goblin",
+    "persecond": 3,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 0,
+      "maxthis": 5
+    }
+  },
+  {
+    "mob": "minecraft:stray",
+    "persecond": 2,
+    "attempts": 5,
+    "amount": {
+      "minimum": 2,
+      "maximum": 4
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 0,
+      "maxthis": 20
+    }
+  },
+  {
+    "mob": "minecraft:husk",
+    "persecond": 0.5,
+    "attempts": 5,
+    "amount": {
+      "minimum": 2,
+      "maximum": 5
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 100,
+      "maxthis": 20
+    }
+  },
+  {
+    "mob": "minecraft:zombie",
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 2,
+      "maximum": 5
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 100,
+      "maxthis": 100
+    }
+  },
+  {
+    "mob": "minecraft:spider",
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 2,
+      "maximum": 5
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": -64,
+      "maxheight": 100,
+      "maxthis": 40
+    }
+  }
+]
