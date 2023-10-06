@@ -425,6 +425,10 @@ file = "kubejs/data/twilightforest/loot_tables/entities/redcap.json"
 hash = "8c6e7b3e65ef63b66b22517f5ee17aa53954825127a8df38bfa6c2c45bbc9be9"
 
 [[files]]
+file = "kubejs/server_scripts/glowBerryCookie.js"
+hash = "798eb5dcbe0818656233c4e8b5ab2e8da4e594d45ba042be512979239417afca"
+
+[[files]]
 file = "kubejs/server_scripts/lightSources.js"
 hash = "701eb8bd82bf9fa4cd3dc90dc31f44649dbc8d544cb5e3c48a8ec79a868a32fe"
 
