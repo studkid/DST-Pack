@@ -173,6 +173,10 @@ file = "config/starterkit/starterkit.txt"
 hash = "ea08bf6a161b047f45bbbc56c4a3c099a1e300a0724550ba2a8d1367997a5819"
 
 [[files]]
+file = "defaultconfigs/eyesinthedarkness-server.toml"
+hash = "642042907cfd37775c3291c3a924228684bd5ee864d860f8bc566fbec4789dd1"
+
+[[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
 hash = "38e94dedb3169ea3c98040935fd9adf9ef2df738d52869518771345e763c9b33"
 
