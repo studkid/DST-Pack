@@ -165,12 +165,8 @@ file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
-file = "config/starterkit.txt"
-hash = "89b7ee875903c0206a8e6b54490150d49ac6f72c40c5eaf09f83cace9a1c943f"
-
-[[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "1dca68d95af084d6ef119848b8b06781fc09e4efde579b72e0a483ae09584862"
+hash = "ea08bf6a161b047f45bbbc56c4a3c099a1e300a0724550ba2a8d1367997a5819"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
