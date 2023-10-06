@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-forge-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/MsATpcA9/midnightlib-forge-1.4.1.jar"
+hash-format = "sha1"
+hash = "3a7b7253ca1c66fa094e68579bef78ec32879952"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "MsATpcA9"
