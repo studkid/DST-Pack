@@ -278,7 +278,7 @@ hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/ancient_city.json"
-hash = "feb9e73d5a2146b246fb44c4af133546b426cddc69d75489c6fbc6ef696cf692"
+hash = "f0065c07c960f9e8b60fc5865686a22a4955032f355f311b74bcf38a3ffad494"
 
 [[files]]
 file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder.json"
