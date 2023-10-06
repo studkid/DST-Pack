@@ -422,7 +422,7 @@ hash = "8c6e7b3e65ef63b66b22517f5ee17aa53954825127a8df38bfa6c2c45bbc9be9"
 
 [[files]]
 file = "kubejs/server_scripts/lightSources.js"
-hash = "87dcb974f6d9e7e2fde80c870bc31989286e9792c7a822a72c126daf137b4bab"
+hash = "c279ee147db27fddb89558f1794f78d64b5396521825fea6d69f0ba047c92ea6"
 
 [[files]]
 file = "kubejs/server_scripts/swiftSneakGoldLeggings.js"

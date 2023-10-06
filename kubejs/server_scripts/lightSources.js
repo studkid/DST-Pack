@@ -27,13 +27,13 @@ ServerEvents.recipes((event) => {
     event.shaped(
         'kubejs:hand_lantern',
         [
+            ' I ',
             'IGI',
-            'IGI',
-            'IGI',
+            ' I ',
         ],
         {
             I: 'minecraft:iron_ingot',
-            G: 'minecraft:glowstone_dust',
+            G: 'minecraft:glow_berries',
         },
     );
 });
@@ -44,4 +44,18 @@ ServerEvents.tags('item', (event) => {
     hide.forEach((item) => {
         event.add('c:hidden_from_recipe_viewers', item);
     });
+
+    event.removeAll('dynamiclights:light_level/15');
+    event.removeAll('dynamiclights:light_level/9');
+    event.removeAll('dynamiclights:light_level/6');
+
+    event.add('dynamiclights:light_level/9', "kubejs:hand_torch");
+    event.add('dynamiclights:light_level/turn_off', "kubejs:hand_torch");
+    event.add('dynamiclights:light_level/15', "kubejs:hand_lantern");
 });
+
+ServerEvents.tags('entity_type', (event) => {
+    event.removeAll('dynamiclights:light_level/15');
+    event.removeAll('dynamiclights:light_level/9');
+    event.removeAll('dynamiclights:light_level/6');
+})
