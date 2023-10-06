@@ -1,0 +1,13 @@
+name = "Chunk Sending[Forge/Fabric]"
+filename = "chunksending-1.20.1-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8022ea3b301d5811e1228c6c19b14d99ec071c86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4765537
+project-id = 831663

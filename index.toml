@@ -14,15 +14,59 @@ hash = "94bbf4d86a7bdb512b9911ad49f85a32bb6647f492098ac8a81f50ae05a48279"
 
 [[files]]
 file = "config/dynamiclights_droppeditems.cfg"
-hash = "01c877610f849aa4924313f9c8abd0a0439bbb447dbc7e523e268f8de672e107"
+hash = "8ec8ab7fa862e5f9e74b7647556d134c3a1dcaa59468d3cbcc486ce6e637ff15"
 
 [[files]]
 file = "config/dynamiclights_selflight.cfg"
-hash = "01c877610f849aa4924313f9c8abd0a0439bbb447dbc7e523e268f8de672e107"
+hash = "acf23a275ba883329fa49d3ea10e096d10fc52009ee952a77184958461ca4182"
 
 [[files]]
 file = "config/engulfingdarkness-common.toml"
 hash = "d451d80bc7a85043757550ef5f2cc591612033294ea3d486384650ebec5ca140"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "99cb2be11b1a857f036e5e464f589b2c884d197fc095591ecff0c09902938201"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "e68b60de2c78f4cb9e918f1e4562858fe4ce12a77e2ce20589cca8439e4689e8"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/jade/hide-entities.json"
@@ -113,12 +157,20 @@ file = "config/openloader/data/Night Terrors/pack.mcmeta"
 hash = "f992c25a195f65dbfaee32b9efa52917b9f58c8bd8b403cd65437ca20b9595f6"
 
 [[files]]
+file = "config/rubidium_extras.toml"
+hash = "2bd930289815e50c7bc48e50c4b374434a9b943f190be822d161a8e5cbd6790e"
+
+[[files]]
 file = "config/sanitydim/default.toml"
 hash = "197ab60883fecbaeea130c5aee72d31a8c50ffa915405c2312c939e66154e2e9"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "ea08bf6a161b047f45bbbc56c4a3c099a1e300a0724550ba2a8d1367997a5819"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
@@ -129,20 +181,24 @@ file = "defaultconfigs/toughasnails-server.toml"
 hash = "1c9fb3675564229bef023831fbaab4db408618b6755e2eed0d224f6c3a9b49ae"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/hand_lantern.png"
+hash = "b3181727b4795765799480f31b441434c74b80ed9662855d398d7b76268b05d9"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/hand_torch.png"
 hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
-file = "kubejs/server_scripts/disableLight.js"
-hash = "6b655b2f65f82782e94711d0e8ebb276eaca7e7bdba90f837376d25164fab83f"
+file = "kubejs/server_scripts/lightSources.js"
+hash = "87dcb974f6d9e7e2fde80c870bc31989286e9792c7a822a72c126daf137b4bab"
 
 [[files]]
-file = "kubejs/server_scripts/hideItems.js"
-hash = "e76ed33bc087b012b3dc86fdcad0dc453e0099ef533d82672deff277ebdaad77"
+file = "kubejs/server_scripts/swiftSneakGoldLeggings.js"
+hash = "04e617c6edf316d49e6df7fd1450946102aecc4641c51d69e47f4bf5a22ab4da"
 
 [[files]]
 file = "kubejs/startup_scripts/add_items.js"
-hash = "2609cac2a799a77d4e58b7fdf7898da5b1ea30f7fe0961f7d5f33e50511077c6"
+hash = "5aaafa0c24619cbd217f569a78bfab0b67c229e23e78f6a0a82e45b8c1b452fa"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -165,6 +221,16 @@ hash = "c20f393edb9bad800c6fc770bfaba6efc3780b40d86d23dcff34002d24ad6f58"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "f74134eaf915a98b97160044ff3ce09a4b6720f4f07b43b9740939ee129337ac"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "b2273dfa899b8d78f6df86faef01d4a3754da66a238b0066ba0dd53971936fb6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
 metafile = true
@@ -180,6 +246,11 @@ hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7ed9ece61fde7a2f66450313fd5b479cfc273d3fd9f09904dcc118046525ca95"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -187,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "929933481c4f2438886206bb5e4888137b6f4b82b5f6c39568a6d16ee5ac7848"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0579204673f3d0d3a4423010f03c867a6a7b519a260191ccbdd029256b6449cd"
 metafile = true
 
 [[files]]
@@ -215,6 +291,11 @@ hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -227,6 +308,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "4d931064f471438d167e62c8915732fa266d5dc06a45717771d737688d084c6b"
 metafile = true
 
 [[files]]
@@ -247,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "69f29d52e12bd46f1a5a3282978461cba8860934f636d3ec9e49832a98646ee7"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
@@ -275,6 +371,16 @@ hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "01ce10dd8242ac65403a71a3dd23c33676a73835cfd665b799e88db6fd85c42a"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3aed30ddd68d4ea3360fd5827b67cafc3ee0403351baec2bf9309ea46943f598"
 metafile = true
@@ -300,13 +406,23 @@ hash = "c933433f2eded417ee7d36697935eb5f6f3ef9cddb4029a85b315b87cad4b910"
 metafile = true
 
 [[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "f4bfe8f04847a5b590e59baaf47281273c2f0e54e0e99330eb38e91cfdc98fb4"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "cf6c7974d46bba617f63da63cb589fa42f26c8b04d9230c43fd7f72b3e30c2d8"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "095dae1292ba5902b5e2abce6b85ef18d92e0131bce67fdb03b59b6b9fef848c"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
-hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
+hash = "d7de8364533f22c94fa554c48c492c86b42b4ad8af750fff3c35bb61adb8242a"
 metafile = true
 
 [[files]]
@@ -335,6 +451,11 @@ hash = "a78de1db76195901cb6286ae14f5f504aa68fc487770b97e66a99d9c6c81dd23"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "896b67223b10b47e65299d2c9c3fa2ef913cb5cd86b805bd8b2704e1bb40f4e0"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
@@ -345,6 +466,11 @@ hash = "21243746ccc669fe9b32286268e04c8f5d9392a6d98a7662e81641b5221e4842"
 metafile = true
 
 [[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "d8c0f34c7d18243a19e7aa8c87f511106df3f86e91fe6da17db0b5a0bab4c415"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c19a2202c2bbf4d9337b55cfc8adc3bfd356841f8232dedf78e28843aa479af6"
 metafile = true
@@ -352,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "7eab318d7763eecf47bde9ecd8d499fe676935392e222a9e8c64c08e6df548d5"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "8aa796fb0766c452314bfb2f28bc248a1c8300a00d580030ffd0685071c82767"
 metafile = true
 
 [[files]]

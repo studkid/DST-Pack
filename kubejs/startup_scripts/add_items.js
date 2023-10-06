@@ -1,11 +1,11 @@
-StartupEvents.registry('item', e => {
-    e.create('hand_torch')
+StartupEvents.registry('item', (event) => {
+    event.create('hand_torch')
         .displayName('Torch')
         .texture('kubejs:item/hand_torch')
         .tooltip('§4Cannot be Placed');
-    
-    e.create('hand_lantern')
+
+    event.create('hand_lantern')
         .displayName('Lantern')
         .texture('kubejs:item/hand_lantern')
         .tooltip('§4Cannot be Placed');
-})
+});

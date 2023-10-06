@@ -1,0 +1,27 @@
+#Dynamic Lights Settings
+[Settings]
+
+	[Settings."True Darkness"]
+		#Allowed Values: PITCH_BLACK, REALLY_DARK, DARK, DIM
+		"Darkness Setting (PITCH_BLACK, REALLY_DARK, DARK, DIM)" = "PITCH_BLACK"
+		"Use True Darkness" = true
+
+		[Settings."True Darkness".Advanced]
+			#Range: 0.0 ~ 1.0
+			"Minimum Moon Brightness (0->1)" = 0.0
+			"Ignore Moon Light" = false
+			#Range: 0.0 ~ 1.0
+			"Maximum Moon Brightness (0->1)" = 0.25
+			"Only Effect Block Lighting" = false
+
+		[Settings."True Darkness"."Dimension Settings"]
+			#Range: 0.0 ~ 1.0
+			"Dark End Fog Brightness (0->1)" = 0.0
+			"Dark Nether?" = false
+			"Dark By Default?" = false
+			#Range: 0.0 ~ 1.0
+			"Dark Nether Fog Brightness (0->1)" = 0.5
+			"Dark If No Skylight?" = false
+			"Dark Overworld?" = true
+			"Dark End?" = false
+
