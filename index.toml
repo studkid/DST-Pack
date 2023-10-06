@@ -433,6 +433,10 @@ file = "kubejs/server_scripts/lightSources.js"
 hash = "701eb8bd82bf9fa4cd3dc90dc31f44649dbc8d544cb5e3c48a8ec79a868a32fe"
 
 [[files]]
+file = "kubejs/server_scripts/serverLoad.js"
+hash = "9ab6a35eb484da9c89c8a2b99d1c2b766011ba20a1a56036fb2ed688881e685a"
+
+[[files]]
 file = "kubejs/server_scripts/swiftSneakGoldLeggings.js"
 hash = "04e617c6edf316d49e6df7fd1450946102aecc4641c51d69e47f4bf5a22ab4da"
 
