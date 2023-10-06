@@ -157,6 +157,10 @@ file = "config/openloader/data/Night Terrors/pack.mcmeta"
 hash = "f992c25a195f65dbfaee32b9efa52917b9f58c8bd8b403cd65437ca20b9595f6"
 
 [[files]]
+file = "config/rubidium_extras.toml"
+hash = "2bd930289815e50c7bc48e50c4b374434a9b943f190be822d161a8e5cbd6790e"
+
+[[files]]
 file = "config/sanitydim/default.toml"
 hash = "197ab60883fecbaeea130c5aee72d31a8c50ffa915405c2312c939e66154e2e9"
 
