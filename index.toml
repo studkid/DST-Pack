@@ -189,8 +189,184 @@ file = "kubejs/assets/kubejs/textures/item/hand_torch.png"
 hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/black_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/blue_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/brown_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/cyan_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/gray_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/green_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/lantern.json"
+hash = "625b3ac86e9c49a1ccf16c651908704e3f4b0784140d86fe4ceddbe0e7eac1f3"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/light_blue_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/light_gray_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/lime_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/magenta_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/orange_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/pink_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/purple_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/red_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/soul_lantern.json"
+hash = "625b3ac86e9c49a1ccf16c651908704e3f4b0784140d86fe4ceddbe0e7eac1f3"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/soul_torch.json"
+hash = "625b3ac86e9c49a1ccf16c651908704e3f4b0784140d86fe4ceddbe0e7eac1f3"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/torch.json"
+hash = "625b3ac86e9c49a1ccf16c651908704e3f4b0784140d86fe4ceddbe0e7eac1f3"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/white_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/yellow_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
 file = "kubejs/data/minecraft/loot_tables/chests/ancient_city.json"
 hash = "63254c3cd5f014087284216ed97bc65d41f547b68b513833cda1286416471a50"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_black.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_blue.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_brown.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_cyan.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_gray.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_green.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_light_blue.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_light_gray.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_lime.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_magenta.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_orange.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_pink.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_purple.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_red.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_white.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/supplementaries/loot_tables/blocks/candle_holder_yellow.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/blocks/creeper_skull_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/blocks/piglin_skull_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/blocks/player_skull_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/blocks/skeleton_skull_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/blocks/wither_skeleton_skull_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/blocks/zombie_skull_candle.json"
+hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
 
 [[files]]
 file = "kubejs/server_scripts/lightSources.js"
