@@ -114,7 +114,7 @@
 		shearing_cd = 300.0
 		#Consuming food gives this amount of sanity for every half-drumstick the meal restores
 		#Range: -100.0 ~ 100.0
-		eating = 0.8
+		eating = 1
 		#Eating cooldown (see notes above), real time in seconds
 		#Range: 0.0 ~ 3.4028234663852886E38
 		eating_cd = 300.0

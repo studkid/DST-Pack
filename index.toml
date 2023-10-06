@@ -6,7 +6,7 @@ hash = "16838162cbc694bfc052029b9c09e42cc449de47c717923daaeed8aa1d7744be"
 
 [[files]]
 file = "config/drg_flares_server.json"
-hash = "7525abe46d3507e4dca3f5bdb1fe62ebd3e4b688f1d539e1f41aa8c523838050"
+hash = "1e59183ff0dd496c13eecffc3860c97e771d001a95920087a79e11efdcb097c3"
 
 [[files]]
 file = "config/dynamiclights.cfg"
@@ -89,6 +89,54 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/functions/lantern/lantern_tick.mcfunction"
+hash = "c0ba310bc4ca36db4ad1429d810afe96323f16596554fc62f63084f0d6e63311"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/functions/load.mcfunction"
+hash = "67d2999482db1660fb0f4b214f70531617e0469dad12de7481cdd3b1d3bb6535"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/functions/tick.mcfunction"
+hash = "5807dc77187d7c81768cfad70c10768cce6725062700e4a8948bc8fbce93f895"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/functions/torch/torch_tick.mcfunction"
+hash = "170013971d597019701fe9679b56ba1c04a878e9f917462a96569b5e6d2858c7"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/item_modifiers/break_tool.json"
+hash = "4db28ace9ba3064f51bcd5712bd99c9d2864bac3188f8eb27deb9661d18d9727"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/item_modifiers/damage_tool.json"
+hash = "daefe727fe3359d5d8c8bf2ffe9704b43d1ee61964f483c373322513cfb43797"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/predicates/holdinglantern.json"
+hash = "e5ff91f73848e8389922c06d630922aab2dcef71ba52cdf263dfe4623e1516dc"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/predicates/holdingtorch.json"
+hash = "7f8a11264a83f54347ed7c83b5ca99a506da272cd8cf5c255a2bd8f93a91d661"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/predicates/mainlantern.json"
+hash = "44e5cf368d4ee4a994e6713c65a79abd5d1ab25dc049b35a9cdd8d894a64218c"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/predicates/maintorch.json"
+hash = "33a8d13af983cc08d800289b18fd540b613fed47a359473e70c38ae1d030b2e6"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/predicates/offlantern.json"
+hash = "9785f822898be58e6957d10c39d7af7b7eef4515b71a4f4b11166ee044810fc9"
+
+[[files]]
+file = "config/openloader/data/Damage Gear/data/itemdamage/predicates/offtorch.json"
+hash = "d5e9dae43ea7ba64596d41bd0a8e26bf979ce2df7647fdf6d6f18d37896ba094"
+
+[[files]]
 file = "config/openloader/data/Damage Gear/pack.mcmeta"
 hash = "033f5987ac6fe65fee57dd5cdc17fc31f63bdeb4eb64af7fb838a3af0c7a2157"
 
@@ -162,7 +210,7 @@ hash = "2bd930289815e50c7bc48e50c4b374434a9b943f190be822d161a8e5cbd6790e"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "197ab60883fecbaeea130c5aee72d31a8c50ffa915405c2312c939e66154e2e9"
+hash = "14daef5cb224f4e7a2be279f84cbf536114ffe031ae2910666134b9d0775565d"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -456,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "c3704ed0404dd193e6b901841291c6378ff74f9615efc5a32cf697d36a8b8538"
+hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
 metafile = true
 
 [[files]]
@@ -557,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7beba38db490b2e7e319521bc2b6d0e494f7b52bbcc7b75369c4f85730385669"
 metafile = true
 
 [[files]]
