@@ -9,16 +9,8 @@ file = "config/drg_flares_server.json"
 hash = "1e59183ff0dd496c13eecffc3860c97e771d001a95920087a79e11efdcb097c3"
 
 [[files]]
-file = "config/dynamiclights.cfg"
-hash = "94bbf4d86a7bdb512b9911ad49f85a32bb6647f492098ac8a81f50ae05a48279"
-
-[[files]]
-file = "config/dynamiclights_droppeditems.cfg"
-hash = "8ec8ab7fa862e5f9e74b7647556d134c3a1dcaa59468d3cbcc486ce6e637ff15"
-
-[[files]]
-file = "config/dynamiclights_selflight.cfg"
-hash = "acf23a275ba883329fa49d3ea10e096d10fc52009ee952a77184958461ca4182"
+file = "config/dynamiclights.json"
+hash = "bce7f5cf98eede5589e42a09ee1cc93157b308fa1013c149c39b4bb2bb47a231"
 
 [[files]]
 file = "config/engulfingdarkness-common.toml"
