@@ -422,7 +422,7 @@ hash = "04e617c6edf316d49e6df7fd1450946102aecc4641c51d69e47f4bf5a22ab4da"
 
 [[files]]
 file = "kubejs/startup_scripts/add_items.js"
-hash = "5aaafa0c24619cbd217f569a78bfab0b67c229e23e78f6a0a82e45b8c1b452fa"
+hash = "2d38aa7df49f34609daf7d762c6c00a2f1557e45ac7c542a35350e097e094fce"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
