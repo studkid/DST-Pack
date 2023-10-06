@@ -202,7 +202,7 @@ hash = "2bd930289815e50c7bc48e50c4b374434a9b943f190be822d161a8e5cbd6790e"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "14daef5cb224f4e7a2be279f84cbf536114ffe031ae2910666134b9d0775565d"
+hash = "52fe604843b0ac656364c833b45d195c235432a513f77d3227075db5d56d4cd8"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
