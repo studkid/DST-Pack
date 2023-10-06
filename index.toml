@@ -14,15 +14,59 @@ hash = "94bbf4d86a7bdb512b9911ad49f85a32bb6647f492098ac8a81f50ae05a48279"
 
 [[files]]
 file = "config/dynamiclights_droppeditems.cfg"
-hash = "01c877610f849aa4924313f9c8abd0a0439bbb447dbc7e523e268f8de672e107"
+hash = "8ec8ab7fa862e5f9e74b7647556d134c3a1dcaa59468d3cbcc486ce6e637ff15"
 
 [[files]]
 file = "config/dynamiclights_selflight.cfg"
-hash = "01c877610f849aa4924313f9c8abd0a0439bbb447dbc7e523e268f8de672e107"
+hash = "acf23a275ba883329fa49d3ea10e096d10fc52009ee952a77184958461ca4182"
 
 [[files]]
 file = "config/engulfingdarkness-common.toml"
 hash = "d451d80bc7a85043757550ef5f2cc591612033294ea3d486384650ebec5ca140"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "99cb2be11b1a857f036e5e464f589b2c884d197fc095591ecff0c09902938201"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "e68b60de2c78f4cb9e918f1e4562858fe4ce12a77e2ce20589cca8439e4689e8"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/jade/hide-entities.json"
@@ -121,6 +165,14 @@ file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
+file = "config/starterkit.txt"
+hash = "89b7ee875903c0206a8e6b54490150d49ac6f72c40c5eaf09f83cace9a1c943f"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "1dca68d95af084d6ef119848b8b06781fc09e4efde579b72e0a483ae09584862"
+
+[[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
 hash = "38e94dedb3169ea3c98040935fd9adf9ef2df738d52869518771345e763c9b33"
 
@@ -129,12 +181,16 @@ file = "defaultconfigs/toughasnails-server.toml"
 hash = "1c9fb3675564229bef023831fbaab4db408618b6755e2eed0d224f6c3a9b49ae"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/hand_lantern.png"
+hash = "b3181727b4795765799480f31b441434c74b80ed9662855d398d7b76268b05d9"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/hand_torch.png"
 hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
 file = "kubejs/server_scripts/disableLight.js"
-hash = "6b655b2f65f82782e94711d0e8ebb276eaca7e7bdba90f837376d25164fab83f"
+hash = "b2e70d1cfe43be157dd7c1f14f0d1c92c2c0331ecc09be8ef2b011703d386fc9"
 
 [[files]]
 file = "kubejs/server_scripts/hideItems.js"
@@ -142,7 +198,7 @@ hash = "e76ed33bc087b012b3dc86fdcad0dc453e0099ef533d82672deff277ebdaad77"
 
 [[files]]
 file = "kubejs/startup_scripts/add_items.js"
-hash = "2609cac2a799a77d4e58b7fdf7898da5b1ea30f7fe0961f7d5f33e50511077c6"
+hash = "4cdacb0c8c701b25c0ba48cb182efe6006b81b89655808f65c7712c7fc5a285a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
