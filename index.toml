@@ -189,12 +189,8 @@ file = "kubejs/assets/kubejs/textures/item/hand_torch.png"
 hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
-file = "kubejs/server_scripts/disableLight.js"
-hash = "cb96bb83542f312950b9846e01ae5e7b0a8ac51f430d981e628ff3283c3ef732"
-
-[[files]]
-file = "kubejs/server_scripts/hideItems.js"
-hash = "da18c28eccd942478a4b91083bd67441c6f9949a71f11ffacb147ea2d73ca6cc"
+file = "kubejs/server_scripts/lightSources.js"
+hash = "87dcb974f6d9e7e2fde80c870bc31989286e9792c7a822a72c126daf137b4bab"
 
 [[files]]
 file = "kubejs/server_scripts/swiftSneakGoldLeggings.js"
