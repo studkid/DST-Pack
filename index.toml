@@ -218,7 +218,7 @@ hash = "642042907cfd37775c3291c3a924228684bd5ee864d860f8bc566fbec4789dd1"
 
 [[files]]
 file = "defaultconfigs/sereneseasons-server.toml"
-hash = "38e94dedb3169ea3c98040935fd9adf9ef2df738d52869518771345e763c9b33"
+hash = "3888507ec09f99527f97c9eb5701f96d397162250c842361aaa8b2f8512a5c8b"
 
 [[files]]
 file = "defaultconfigs/toughasnails-server.toml"
