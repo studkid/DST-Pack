@@ -190,15 +190,15 @@ hash = "329db8f31720564ca9c6eeb3bafb98bb30a4d277e958e55806720cc01dbf296d"
 
 [[files]]
 file = "kubejs/server_scripts/disableLight.js"
-hash = "b2e70d1cfe43be157dd7c1f14f0d1c92c2c0331ecc09be8ef2b011703d386fc9"
+hash = "cb96bb83542f312950b9846e01ae5e7b0a8ac51f430d981e628ff3283c3ef732"
 
 [[files]]
 file = "kubejs/server_scripts/hideItems.js"
-hash = "e76ed33bc087b012b3dc86fdcad0dc453e0099ef533d82672deff277ebdaad77"
+hash = "da18c28eccd942478a4b91083bd67441c6f9949a71f11ffacb147ea2d73ca6cc"
 
 [[files]]
 file = "kubejs/startup_scripts/add_items.js"
-hash = "4cdacb0c8c701b25c0ba48cb182efe6006b81b89655808f65c7712c7fc5a285a"
+hash = "5aaafa0c24619cbd217f569a78bfab0b67c229e23e78f6a0a82e45b8c1b452fa"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
