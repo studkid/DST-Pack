@@ -197,6 +197,10 @@ file = "kubejs/server_scripts/hideItems.js"
 hash = "da18c28eccd942478a4b91083bd67441c6f9949a71f11ffacb147ea2d73ca6cc"
 
 [[files]]
+file = "kubejs/server_scripts/swiftSneakGoldLeggings.js"
+hash = "04e617c6edf316d49e6df7fd1450946102aecc4641c51d69e47f4bf5a22ab4da"
+
+[[files]]
 file = "kubejs/startup_scripts/add_items.js"
 hash = "5aaafa0c24619cbd217f569a78bfab0b67c229e23e78f6a0a82e45b8c1b452fa"
 
