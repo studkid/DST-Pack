@@ -1,10 +1,36 @@
 ServerEvents.recipes((event) => {
+    // Torches
+    // This might be better if recipes were iterated over
     event.remove({ input: 'minecraft:torch' });
+    event.shaped(
+        'kubejs:hand_torch',
+        [
+            'C',
+            'S',
+        ],
+        {
+            C: '#minecraft:coals',
+            S: 'minecraft:stick',
+        },
+    ).id('minecraft:torch');
+    event.shaped(
+        'kubejs:hand_torch',
+        [
+            'C',
+            'S',
+        ],
+        {
+            C: 'twilightforest:torchberries',
+            S: 'minecraft:stick',
+        },
+    ).id('twilightforest:berry_torch');
+    // Just in case...
     event.replaceOutput(
         { output: 'minecraft:torch' },
         'minecraft:torch',
         'kubejs:hand_torch',
     );
+
     event.remove({ output: 'minecraft:soul_torch' });
     event.remove({ input: 'minecraft:soul_torch' });
     // Remove every object with the word "candle" in its id via regex

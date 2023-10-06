@@ -202,7 +202,7 @@ hash = "2bd930289815e50c7bc48e50c4b374434a9b943f190be822d161a8e5cbd6790e"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-hash = "52fe604843b0ac656364c833b45d195c235432a513f77d3227075db5d56d4cd8"
+hash = "41b9025c62c72be52e08671059b766578ff46cb1b63be6105e16aac43846ec5e"
 
 [[files]]
 file = "config/sanitydim/dimension/example.toml"
@@ -223,6 +223,10 @@ hash = "3888507ec09f99527f97c9eb5701f96d397162250c842361aaa8b2f8512a5c8b"
 [[files]]
 file = "defaultconfigs/toughasnails-server.toml"
 hash = "1c9fb3675564229bef023831fbaab4db408618b6755e2eed0d224f6c3a9b49ae"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/glow_berry_cookie.png"
+hash = "eb9f252f28f3d3080bf715343c9a5f073d6a1d05dec25993e0fe84e30d4a637e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/hand_lantern.png"
@@ -422,7 +426,7 @@ hash = "8c6e7b3e65ef63b66b22517f5ee17aa53954825127a8df38bfa6c2c45bbc9be9"
 
 [[files]]
 file = "kubejs/server_scripts/lightSources.js"
-hash = "c279ee147db27fddb89558f1794f78d64b5396521825fea6d69f0ba047c92ea6"
+hash = "701eb8bd82bf9fa4cd3dc90dc31f44649dbc8d544cb5e3c48a8ec79a868a32fe"
 
 [[files]]
 file = "kubejs/server_scripts/swiftSneakGoldLeggings.js"
@@ -430,7 +434,7 @@ hash = "04e617c6edf316d49e6df7fd1450946102aecc4641c51d69e47f4bf5a22ab4da"
 
 [[files]]
 file = "kubejs/startup_scripts/add_items.js"
-hash = "2d38aa7df49f34609daf7d762c6c00a2f1557e45ac7c542a35350e097e094fce"
+hash = "c443be06c5ad263ea3407a724df2af8c8d4f58675522337e3bbd8344179d86d9"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
