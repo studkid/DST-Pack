@@ -413,6 +413,14 @@ file = "kubejs/data/twilightforest/loot_tables/blocks/zombie_skull_candle.json"
 hash = "088dabc9e3efd37a5c07af19b418121afb6835ff2c74087f44b5815b49b21942"
 
 [[files]]
+file = "kubejs/data/twilightforest/loot_tables/entities/kobold.json"
+hash = "fbbbed2cab274fbe6a170eb8c9008c0215a2c89cec4d605c48e9a8e4cd79658d"
+
+[[files]]
+file = "kubejs/data/twilightforest/loot_tables/entities/redcap.json"
+hash = "8c6e7b3e65ef63b66b22517f5ee17aa53954825127a8df38bfa6c2c45bbc9be9"
+
+[[files]]
 file = "kubejs/server_scripts/lightSources.js"
 hash = "87dcb974f6d9e7e2fde80c870bc31989286e9792c7a822a72c126daf137b4bab"
 
