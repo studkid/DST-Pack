@@ -217,6 +217,16 @@ hash = "c20f393edb9bad800c6fc770bfaba6efc3780b40d86d23dcff34002d24ad6f58"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "f74134eaf915a98b97160044ff3ce09a4b6720f4f07b43b9740939ee129337ac"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "b2273dfa899b8d78f6df86faef01d4a3754da66a238b0066ba0dd53971936fb6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
 metafile = true
@@ -232,6 +242,11 @@ hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7ed9ece61fde7a2f66450313fd5b479cfc273d3fd9f09904dcc118046525ca95"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -239,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "929933481c4f2438886206bb5e4888137b6f4b82b5f6c39568a6d16ee5ac7848"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0579204673f3d0d3a4423010f03c867a6a7b519a260191ccbdd029256b6449cd"
 metafile = true
 
 [[files]]
@@ -257,6 +277,11 @@ hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "2284324685ac6afe22f833731a99a4413a6351fdedc36c4ea917afac0171c879"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "57e6a3d56b34f47a68f41ad619c511fae27649b40979df5b4950f86d891d4d44"
 metafile = true
@@ -264,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
@@ -279,6 +309,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "4d931064f471438d167e62c8915732fa266d5dc06a45717771d737688d084c6b"
 metafile = true
 
 [[files]]
@@ -299,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "69f29d52e12bd46f1a5a3282978461cba8860934f636d3ec9e49832a98646ee7"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
@@ -327,6 +372,16 @@ hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "01ce10dd8242ac65403a71a3dd23c33676a73835cfd665b799e88db6fd85c42a"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3aed30ddd68d4ea3360fd5827b67cafc3ee0403351baec2bf9309ea46943f598"
 metafile = true
@@ -352,13 +407,13 @@ hash = "c933433f2eded417ee7d36697935eb5f6f3ef9cddb4029a85b315b87cad4b910"
 metafile = true
 
 [[files]]
-file = "mods/rhino.pw.toml"
-hash = "cf6c7974d46bba617f63da63cb589fa42f26c8b04d9230c43fd7f72b3e30c2d8"
+file = "mods/redirectionor.pw.toml"
+hash = "f4bfe8f04847a5b590e59baaf47281273c2f0e54e0e99330eb38e91cfdc98fb4"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
+file = "mods/rhino.pw.toml"
+hash = "cf6c7974d46bba617f63da63cb589fa42f26c8b04d9230c43fd7f72b3e30c2d8"
 metafile = true
 
 [[files]]
@@ -387,6 +442,11 @@ hash = "a78de1db76195901cb6286ae14f5f504aa68fc487770b97e66a99d9c6c81dd23"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "896b67223b10b47e65299d2c9c3fa2ef913cb5cd86b805bd8b2704e1bb40f4e0"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
@@ -397,6 +457,11 @@ hash = "21243746ccc669fe9b32286268e04c8f5d9392a6d98a7662e81641b5221e4842"
 metafile = true
 
 [[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "d8c0f34c7d18243a19e7aa8c87f511106df3f86e91fe6da17db0b5a0bab4c415"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c19a2202c2bbf4d9337b55cfc8adc3bfd356841f8232dedf78e28843aa479af6"
 metafile = true
@@ -404,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "7eab318d7763eecf47bde9ecd8d499fe676935392e222a9e8c64c08e6df548d5"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
 metafile = true
 
 [[files]]
