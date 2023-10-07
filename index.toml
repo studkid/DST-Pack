@@ -430,7 +430,7 @@ hash = "798eb5dcbe0818656233c4e8b5ab2e8da4e594d45ba042be512979239417afca"
 
 [[files]]
 file = "kubejs/server_scripts/lightSources.js"
-hash = "701eb8bd82bf9fa4cd3dc90dc31f44649dbc8d544cb5e3c48a8ec79a868a32fe"
+hash = "9168a653c9d85ea95ba5f55be061da1a7ca87b3a3a1e80e65ce06bf4b78fed1d"
 
 [[files]]
 file = "kubejs/server_scripts/serverLoad.js"

@@ -42,8 +42,8 @@ ServerEvents.recipes((event) => {
     event.shaped(
         'kubejs:hand_torch',
         [
-            'WWW',
-            ' S ',
+            'WW',
+            'WS',
         ],
         {
             S: 'minecraft:stick',
