@@ -743,3 +743,7 @@ metafile = true
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
 metafile = true
+
+[[files]]
+file = "packlist.py"
+hash = "d13352a7a5dd6615417b02d68dde062d83fab5cbe8c10a1eeecf702e23d909de"
